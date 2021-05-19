@@ -2,3 +2,7 @@
 .sass-cache
 _site
 Gemfile.lock
+/.idea/.gitignore
+/.idea/CodyBiz.com.iml
+/.idea/modules.xml
+/.idea/vcs.xml
